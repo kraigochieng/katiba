@@ -2,10 +2,9 @@
 import json
 from pathlib import Path
 
-from scripts.load_ocr_pages import load_ocr_pages
-
-from src.katiba.constants import COMBINED_TEXT_PATH, OCR_OUTPUT_DIR, PAGE_INDEX_PATH
-from schemas import OCRPage, PageIndexEntry
+from katiba.constants import COMBINED_TEXT_PATH, OCR_OUTPUT_DIR, PAGE_INDEX_PATH
+from katiba.schemas import OCRPage, PageIndexEntry
+from katiba.scripts.load_ocr_pages import load_ocr_pages
 
 
 def build_combined_with_index(

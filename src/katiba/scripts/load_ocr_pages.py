@@ -1,7 +1,7 @@
 # scripts/load_pages.py
 from pathlib import Path
 
-from schemas import OCRPage
+from katiba.schemas import OCRPage
 
 
 def load_ocr_pages(input_dir: Path) -> list[OCRPage]:
