@@ -5,7 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "langextract>=1.5.0",
+    "langextract[openai]>=1.5.0",
+    "langextract-openrouter>=0.1.1",
     "pydantic-settings>=2.14.2",
 ]
 [build-system]
