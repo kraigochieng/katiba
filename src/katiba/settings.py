@@ -1,3 +1,5 @@
+from typing import Literal
+
 from dotenv import find_dotenv
 from pydantic import SecretStr
 from pydantic_settings import BaseSettings, SettingsConfigDict
@@ -53,8 +55,30 @@ class OllamaSettings(BaseSettings):
     ollama_url: str = "http://localhost:11434"
 
 
+class AppSettings(BaseSettings):
+    model_config = SettingsConfigDict(
+        env_file=find_dotenv(),
+        env_file_encoding="utf-8",
+        extra="ignore",
+    )
+    app_env: Literal["development", "production"] = "development"
+
+    @property
+    def log_level(self) -> str:
+        return "DEBUG" if self.app_env == "development" else "INFO"
+
+    @property
+    def is_development(self) -> bool:
+        return self.app_env == "development"
+
+    @property
+    def is_production(self) -> bool:
+        return self.app_env == "production"
+
+
 # Instantiate once — import these singletons rather than re-instantiating per script
 neo4j_settings = Neo4jSettings()
 neodash_settings = NeoDashSettings()
 gemini_settings = GeminiSettings()
 ollama_settings = OllamaSettings()
+app_settings = AppSettings()
