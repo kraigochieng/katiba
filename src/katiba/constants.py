@@ -1,14 +1,15 @@
 from pathlib import Path
 
-PROJECT_DIR = Path(__file__).resolve().parent
+PACKAGE_DIR = Path(__file__).resolve().parent
+SRC_DIR = PACKAGE_DIR.parent
+PROJECT_DIR = SRC_DIR.parent
 
-SCRIPTS_DIR = f"{PROJECT_DIR}/scripts"
+SCRIPTS_DIR = PACKAGE_DIR / "scripts"
 
-OCR_OUTPUT_DIR = f"{PROJECT_DIR}/deepseek-ocr-output"
+OCR_OUTPUT_DIR = PROJECT_DIR / "deepseek-ocr-output"
 
-
-COMBINED_TEXT_PATH = f"{PROJECT_DIR}/constitution_combined.mmd"
-
-PAGE_INDEX_PATH = f"{PROJECT_DIR}/page_index.json"
-
-# print(PROJECT_DIR)
+OUTPUT_DIR = PROJECT_DIR / "output"
+COMBINED_TEXT_PATH = OUTPUT_DIR / "constitution_combined.mmd"
+PAGE_INDEX_PATH = OUTPUT_DIR / "page_index.json"
+BOUNDARIES_JSONL = OUTPUT_DIR / "boundaries.jsonl"
+BOUNDARIES_HTML = OUTPUT_DIR / "boundaries_visualization.html"
