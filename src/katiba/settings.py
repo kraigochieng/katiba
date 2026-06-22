@@ -51,8 +51,20 @@ class OllamaSettings(BaseSettings):
         env_file_encoding="utf-8",
         extra="ignore",
     )
-    ollama_model: str = "gemma2:2b"
-    ollama_url: str = "http://localhost:11434"
+    ollama_model: str
+    ollama_url: str
+
+
+class OpenRouterSettings(BaseSettings):
+    model_config = SettingsConfigDict(
+        env_file=find_dotenv(),
+        env_file_encoding="utf-8",
+        extra="ignore",
+    )
+    openai_api_key: SecretStr
+    openai_base_url: str
+    openrouter_api_key: SecretStr
+    openrouter_model: str
 
 
 class AppSettings(BaseSettings):
@@ -82,3 +94,4 @@ neodash_settings = NeoDashSettings()
 gemini_settings = GeminiSettings()
 ollama_settings = OllamaSettings()
 app_settings = AppSettings()
+openrouter_settings = OpenRouterSettings()
