@@ -13,3 +13,6 @@ COMBINED_TEXT_PATH = OUTPUT_DIR / "constitution_combined.mmd"
 PAGE_INDEX_PATH = OUTPUT_DIR / "page_index.json"
 BOUNDARIES_JSONL = OUTPUT_DIR / "boundaries.jsonl"
 BOUNDARIES_HTML = OUTPUT_DIR / "boundaries_visualization.html"
+
+
+LOGS_DIR = PROJECT_DIR / "logs"
