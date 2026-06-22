@@ -38,6 +38,7 @@ def setup_logging() -> None:
     logging.getLogger("httpcore").setLevel(logging.WARNING)
     logging.getLogger("google").setLevel(logging.WARNING)
     logging.getLogger("urllib3").setLevel(logging.WARNING)
+    logging.getLogger("absl").setLevel(logging.WARNING)
 
     logging.getLogger(__name__).debug(
         f"Logging initialised — env={app_settings.app_env}, level={app_settings.log_level}"
