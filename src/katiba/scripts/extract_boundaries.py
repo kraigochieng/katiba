@@ -14,9 +14,9 @@ from katiba.constants import (
     PAGE_INDEX_PATH,
 )
 from katiba.schemas import PageIndexEntry
-from katiba.settings import gemini_settings
+from katiba.settings import gemini_settings, ollama_settings
 
-os.environ["LANGEXTRACT_API_KEY"] = gemini_settings.gemini_api_key.get_secret_value()
+# os.environ["LANGEXTRACT_API_KEY"] = gemini_settings.gemini_api_key.get_secret_value()
 
 
 # ── Prompt ────────────────────────────────────────────────────────────────────
@@ -282,13 +282,27 @@ def extract_boundaries() -> None:
     print(f"Loaded {len(combined_text):,} chars, {len(page_index)} pages")
     print(f"Running extraction with {gemini_settings.gemini_model}...")
 
+    # result = lx.extract(
+    #     text_or_documents=combined_text,
+    #     prompt_description=PROMPT,
+    #     examples=EXAMPLES,
+    #     model_id=gemini_settings.gemini_model,
+    #     extraction_passes=3,
+    #     max_workers=1,
+    #     max_char_buffer=2000,
+    #     temperature=0.0,
+    # )
+
     result = lx.extract(
         text_or_documents=combined_text,
         prompt_description=PROMPT,
         examples=EXAMPLES,
-        model_id=gemini_settings.gemini_model,
+        model_id=ollama_settings.ollama_model,
+        model_url=ollama_settings.ollama_url,
+        fence_output=False,
+        use_schema_constraints=False,
         extraction_passes=3,
-        max_workers=1,
+        max_workers=2,
         max_char_buffer=2000,
         temperature=0.0,
     )
