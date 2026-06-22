@@ -13,12 +13,17 @@ from katiba.constants import (
     OUTPUT_DIR,
     PAGE_INDEX_PATH,
 )
+from katiba.logger import get_logger, setup_logging
 from katiba.schemas import PageIndexEntry
 from katiba.settings import gemini_settings, ollama_settings
 
+setup_logging()
+logger = get_logger(__name__)
+
 # os.environ["LANGEXTRACT_API_KEY"] = gemini_settings.gemini_api_key.get_secret_value()
 
-
+MODEL_ID = ollama_settings.ollama_model
+MODEL_URL = ollama_settings.ollama_url
 #  Prompt
 
 PROMPT = textwrap.dedent("""
@@ -279,8 +284,8 @@ def extract_boundaries() -> None:
     combined_text = COMBINED_TEXT_PATH.read_text(encoding="utf-8")
     page_index = load_page_index(PAGE_INDEX_PATH)
 
-    print(f"Loaded {len(combined_text):,} chars, {len(page_index)} pages")
-    print(f"Running extraction with {gemini_settings.gemini_model}...")
+    logger.info(f"Loaded {len(combined_text):,} chars, {len(page_index)} pages")
+    logger.info(f"Running extraction with {MODEL_ID}...")
 
     # result = lx.extract(
     #     text_or_documents=combined_text,
@@ -297,8 +302,8 @@ def extract_boundaries() -> None:
         text_or_documents=combined_text,
         prompt_description=PROMPT,
         examples=EXAMPLES,
-        model_id=ollama_settings.ollama_model,
-        model_url=ollama_settings.ollama_url,
+        model_id=MODEL_ID,
+        model_url=MODEL_URL,
         fence_output=False,
         use_schema_constraints=False,
         extraction_passes=3,
@@ -330,9 +335,9 @@ def extract_boundaries() -> None:
 
     ungrounded = len(result.extractions) - len(grounded)
     if ungrounded:
-        print(f"\n⚠ {ungrounded} ungrounded extractions dropped")
+        logger.info(f"\n⚠ {ungrounded} ungrounded extractions dropped")
 
-    print(f"\nVisualization → {BOUNDARIES_HTML}")
+    logger.info(f"\nVisualization → {BOUNDARIES_HTML}")
 
 
 if __name__ == "__main__":
