@@ -43,7 +43,18 @@ class GeminiSettings(BaseSettings):
     gemini_model: str
 
 
+class OllamaSettings(BaseSettings):
+    model_config = SettingsConfigDict(
+        env_file=find_dotenv(),
+        env_file_encoding="utf-8",
+        extra="ignore",
+    )
+    ollama_model: str = "gemma2:2b"
+    ollama_url: str = "http://localhost:11434"
+
+
 # Instantiate once — import these singletons rather than re-instantiating per script
 neo4j_settings = Neo4jSettings()
 neodash_settings = NeoDashSettings()
 gemini_settings = GeminiSettings()
+ollama_settings = OllamaSettings()
