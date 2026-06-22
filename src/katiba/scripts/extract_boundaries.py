@@ -5,6 +5,7 @@ from collections import Counter
 from pathlib import Path
 
 import langextract as lx
+import requests
 
 from katiba.constants import (
     BOUNDARIES_HTML,
@@ -15,15 +16,24 @@ from katiba.constants import (
 )
 from katiba.logger import get_logger, setup_logging
 from katiba.schemas import PageIndexEntry
-from katiba.settings import gemini_settings, ollama_settings
+from katiba.settings import gemini_settings, ollama_settings, openrouter_settings
 
 setup_logging()
 logger = get_logger(__name__)
 
+os.environ["OPENAI_API_KEY"] = openrouter_settings.openai_api_key.get_secret_value()
+os.environ["OPENAI_BASE_URL"] = openrouter_settings.openai_base_url
+# os.environ["OPENROUTER_API_KEY"] = (
+#     openrouter_settings.openrouter_api_key.get_secret_value()
+# )
+
 # os.environ["LANGEXTRACT_API_KEY"] = gemini_settings.gemini_api_key.get_secret_value()
 
-MODEL_ID = ollama_settings.ollama_model
-MODEL_URL = ollama_settings.ollama_url
+# MODEL_ID = f"openrouter/{openrouter_settings.openrouter_model}"
+MODEL_ID = "gpt-4o-mini"
+# MODEL_ID = ollama_settings.ollama_model
+
+# MODEL_URL = ollama_settings.ollama_url
 #  Prompt
 
 PROMPT = textwrap.dedent("""
@@ -239,9 +249,19 @@ EXAMPLES = [
         ],
     )
 ]
+
+
+def _warm_up_ollama_model(model_url: str, model_id: str) -> None:
+    logger.info(f"Warming up {model_id}...")
+    requests.post(
+        f"{model_url}/api/generate",
+        json={"model": model_id, "keep_alive": -1, "prompt": "", "stream": False},
+        timeout=30,
+    )
+    logger.info("Model warm and resident in memory")
+
+
 #  Page index helpers
-
-
 def load_page_index(path: Path) -> list[PageIndexEntry]:
     raw = json.loads(path.read_text(encoding="utf-8"))
     return [PageIndexEntry(**entry) for entry in raw]
@@ -287,6 +307,8 @@ def extract_boundaries() -> None:
     logger.info(f"Loaded {len(combined_text):,} chars, {len(page_index)} pages")
     logger.info(f"Running extraction with {MODEL_ID}...")
 
+    # _warm_up_ollama_model(ollama_settings.ollama_url, ollama_settings.ollama_model)
+
     # result = lx.extract(
     #     text_or_documents=combined_text,
     #     prompt_description=PROMPT,
@@ -298,16 +320,41 @@ def extract_boundaries() -> None:
     #     temperature=0.0,
     # )
 
+    # result = lx.extract(
+    #     text_or_documents=combined_text,
+    #     prompt_description=PROMPT,
+    #     examples=EXAMPLES,
+    #     model_id=MODEL_ID,
+    #     model_url=MODEL_URL,
+    #     fence_output=False,
+    #     use_schema_constraints=False,
+    #     extraction_passes=3,
+    #     max_workers=1,
+    #     max_char_buffer=1000,
+    #     temperature=0.0,
+    #     language_model_params={"timeout": 300},
+    # )
+
+    # result = lx.extract(
+    #     text_or_documents=combined_text,
+    #     prompt_description=PROMPT,
+    #     examples=EXAMPLES,
+    #     model_id=MODEL_ID,
+    #     extraction_passes=3,
+    #     max_workers=2,
+    #     max_char_buffer=2000,
+    #     temperature=0.0,
+    # )
+
     result = lx.extract(
         text_or_documents=combined_text,
         prompt_description=PROMPT,
         examples=EXAMPLES,
         model_id=MODEL_ID,
-        model_url=MODEL_URL,
-        fence_output=False,
-        use_schema_constraints=False,
+        fence_output=True,  # required for OpenAI provider
+        use_schema_constraints=False,  # required for OpenAI provider
         extraction_passes=3,
-        max_workers=2,
+        max_workers=5,
         max_char_buffer=2000,
         temperature=0.0,
     )
