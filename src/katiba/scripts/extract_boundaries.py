@@ -19,7 +19,7 @@ from katiba.settings import gemini_settings, ollama_settings
 # os.environ["LANGEXTRACT_API_KEY"] = gemini_settings.gemini_api_key.get_secret_value()
 
 
-# ── Prompt ────────────────────────────────────────────────────────────────────
+#  Prompt
 
 PROMPT = textwrap.dedent("""
     Extract structural boundaries from the Constitution of Kenya 2010.
@@ -55,7 +55,7 @@ PROMPT = textwrap.dedent("""
     spacing, fix typos, or paraphrase. List in document order.
 """)
 
-# ── Few-shot example ──────────────────────────────────────────────────────────
+#  Few-shot example
 EXAMPLES = [
     lx.data.ExampleData(
         text=(
@@ -234,7 +234,7 @@ EXAMPLES = [
         ],
     )
 ]
-# ── Page index helpers ────────────────────────────────────────────────────────
+#  Page index helpers
 
 
 def load_page_index(path: Path) -> list[PageIndexEntry]:
@@ -249,7 +249,7 @@ def resolve_page(page_index: list[PageIndexEntry], offset: int) -> int | None:
     return None
 
 
-# ── Validation ────────────────────────────────────────────────────────────────
+#  Validation
 
 EXPECTED_COUNTS: dict[str, int] = {
     "cover_page": 1,
@@ -272,7 +272,7 @@ def validate_counts(counts: Counter) -> None:
         print(f"  {cls}: {count}{flag}")
 
 
-# ── Main ──────────────────────────────────────────────────────────────────────
+#  Main
 
 
 def extract_boundaries() -> None:
