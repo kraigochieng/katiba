@@ -18,4 +18,4 @@ BOUNDARIES_CLEAN = OUTPUT_DIR / "boundaries_clean.json"
 LOGS_DIR = PROJECT_DIR / "logs"
 
 INPUT_DIR = PROJECT_DIR / "input"
-CONSTITUTION_PATH = INPUT_DIR / "The_Constitution_of_Kenya_2010.pdf"
+THE_CONSTITUTION_OF_KENYA_2010_PATH = INPUT_DIR / "The_Constitution_of_Kenya_2010.pdf"
