@@ -13,6 +13,9 @@ COMBINED_TEXT_PATH = OUTPUT_DIR / "constitution_combined.mmd"
 PAGE_INDEX_PATH = OUTPUT_DIR / "page_index.json"
 BOUNDARIES_JSONL = OUTPUT_DIR / "boundaries.jsonl"
 BOUNDARIES_HTML = OUTPUT_DIR / "boundaries_visualization.html"
-
+BOUNDARIES_CLEAN = OUTPUT_DIR / "boundaries_clean.json"
 
 LOGS_DIR = PROJECT_DIR / "logs"
+
+INPUT_DIR = PROJECT_DIR / "input"
+CONSTITUTION_PATH = INPUT_DIR / "The_Constitution_of_Kenya_2010.pdf"
