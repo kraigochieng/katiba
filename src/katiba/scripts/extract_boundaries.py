@@ -375,6 +375,8 @@ def extract_boundaries() -> None:
     grounded.sort(key=lambda e: e.char_interval.start_pos)
 
     for e in grounded:
+        if e.attributes is None:
+            e.attributes = {}
         e.attributes["start_page"] = resolve_page(page_index, e.char_interval.start_pos)
 
     counts = Counter(e.extraction_class for e in grounded)
