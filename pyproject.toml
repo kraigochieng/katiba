@@ -8,6 +8,7 @@ dependencies = [
     "langextract[openai]>=1.5.0",
     "langextract-openrouter>=0.1.1",
     "pydantic-settings>=2.14.2",
+    "google-genai>=2.9.0",
 ]
 [build-system]
 requires = ["uv_build>=0.11.23,<0.12"]

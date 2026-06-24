@@ -844,6 +844,7 @@ name = "katiba"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [
+    { name = "google-genai" },
     { name = "langextract", extra = ["openai"] },
     { name = "langextract-openrouter" },
     { name = "pydantic-settings" },
@@ -851,6 +852,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
+    { name = "google-genai", specifier = ">=2.9.0" },
     { name = "langextract", extras = ["openai"], specifier = ">=1.5.0" },
     { name = "langextract-openrouter", specifier = ">=0.1.1" },
     { name = "pydantic-settings", specifier = ">=2.14.2" },
