@@ -1,0 +1,410 @@
+{
+  "chapter_number": 10,
+  "chapter_name": "JUDICIARY",
+  "has_parts": true,
+  "parts": [
+    {
+      "part_number": 1,
+      "part_name": "JUDICIAL AUTHORITY AND LEGAL SYSTEM",
+      "articles": [
+        {
+          "article_number": 159,
+          "article_title": "Judicial authority.",
+          "clauses": [
+            {
+              "clause_number": 1,
+              "text": "Judicial authority is derived from the people and vests in, and shall be exercised by, the courts and tribunals established by or under this Constitution."
+            },
+            {
+              "clause_number": 2,
+              "text": "In exercising judicial authority, the courts and tribunals shall be guided by the following principles—(a) justice shall be done to all, irrespective of status;(b) justice shall not be delayed;(c) alternative forms of dispute resolution including reconciliation, mediation, arbitration and traditional dispute resolution mechanisms shall be promoted, subject to clause (3);(d) justice shall be administered without undue regard to procedural technicalities; and(e) the purpose and principles of this Constitution shall be protected and promoted."
+            },
+            {
+              "clause_number": 3,
+              "text": "Traditional dispute resolution mechanisms shall not be used in a way that—(a) contravenes the Bill of Rights;(b) is repugnant to justice and morality or results in outcomes that are repugnant to justice or morality; or(c) is inconsistent with this Constitution or any written law."
+            }
+          ]
+        },
+        {
+          "article_number": 160,
+          "article_title": "Independence of the Judiciary.",
+          "clauses": [
+            {
+              "clause_number": 1,
+              "text": "In the exercise of judicial authority, the Judiciary, as constituted by Article 161, shall be subject only to this Constitution and the law and shall not be subject to the control or direction of any person or authority."
+            },
+            {
+              "clause_number": 2,
+              "text": "The office of a judge of a superior court shall not be abolished while there is a substantive holder of the office."
+            },
+            {
+              "clause_number": 3,
+              "text": "The remuneration and benefits payable to or in respect of judges shall be a charge on the Consolidated Fund."
+            },
+            {
+              "clause_number": 4,
+              "text": "Subject to Article 168(6), the remuneration and benefits payable to, or in respect of, a judge shall not be varied to the disadvantage of that judge, and the retirement benefits of a retired judge shall not be varied to the disadvantage of the retired judge during the lifetime of that retired judge."
+            },
+            {
+              "clause_number": 5,
+              "text": "A member of the Judiciary is not liable in an action or suit in respect of anything done or omitted to be done in good faith in the lawful performance of a judicial function."
+            }
+          ]
+        },
+        {
+          "article_number": 161,
+          "article_title": "Judicial offices and officers.",
+          "clauses": [
+            {
+              "clause_number": 1,
+              "text": "The Judiciary consists of the judges of the superior courts, magistrates, other judicial officers and staff."
+            },
+            {
+              "clause_number": 2,
+              "text": "There is established the office of—(a) Chief Justice, who shall be the Head of the Judiciary;(b) Deputy Chief Justice, who shall be the Deputy Head of the Judiciary; and(c) Chief Registrar of the Judiciary, who shall be the chief administrator and accounting officer of the Judiciary."
+            },
+            {
+              "clause_number": 3,
+              "text": "The Judicial Service Commission may establish other offices of registrar as may be necessary."
+            }
+          ]
+        },
+        {
+          "article_number": 162,
+          "article_title": "System of courts.",
+          "clauses": [
+            {
+              "clause_number": 1,
+              "text": "The superior courts are the Supreme Court, the Court of Appeal, the High Court and the courts referred to in clause (2)."
+            },
+            {
+              "clause_number": 2,
+              "text": "Parliament shall establish courts with the status of the High Court to hear and determine disputes relating to—(a) employment and labour relations; and(b) the environment and the use and occupation of, and title to, land."
+            },
+            {
+              "clause_number": 3,
+              "text": "Parliament shall determine the jurisdiction and functions of the courts contemplated in clause (2)."
+            },
+            {
+              "clause_number": 4,
+              "text": "The subordinate courts are the courts established under Article 169, or by Parliament in accordance with that Article."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "part_name": "SUPERIOR COURTS",
+      "articles": [
+        {
+          "article_number": 163,
+          "article_title": "Supreme Court.",
+          "clauses": [
+            {
+              "clause_number": 1,
+              "text": "There is established the Supreme Court, which shall consists of—(a) the Chief Justice, who shall be the president of the court;(b) the Deputy Chief Justice, who shall—(i) deputise for the Chief Justice; and(ii) be the vice-president of the court; and(c) five other judges."
+            },
+            {
+              "clause_number": 2,
+              "text": "The Supreme Court shall be properly constituted for the purposes of its proceedings if it is composed of five judges."
+            },
+            {
+              "clause_number": 3,
+              "text": "The Supreme Court shall have—(a) exclusive original jurisdiction to hear and determine disputes relating to the elections to the office of President arising under Article 140; and(b) subject to clause (4) and (5), appellate jurisdiction to hear and determine appeals from—(i) the Court of Appeal; and(ii) any other court or tribunal as prescribed by national legislation."
+            },
+            {
+              "clause_number": 4,
+              "text": "Appeals shall lie from the Court of Appeal to the Supreme Court—(a) as of right in any case involving the interpretation or application of this Constitution; and(b) in any other case in which the Supreme Court, or the Court of Appeal, certifies that a matter of general public importance is involved, subject to clause (5)."
+            },
+            {
+              "clause_number": 5,
+              "text": "A certification by the Court of Appeal under clause (4) (b) may be reviewed by the Supreme Court, and either affirmed, varied or overturned."
+            },
+            {
+              "clause_number": 6,
+              "text": "The Supreme Court may give an advisory opinion at the request of the national government, any State organ, or any county government with respect to any matter concerning county government."
+            },
+            {
+              "clause_number": 7,
+              "text": "All courts, other than the Supreme Court, are bound by the decisions of the Supreme Court."
+            },
+            {
+              "clause_number": 8,
+              "text": "The Supreme Court shall make rules for the exercise of its jurisdiction."
+            },
+            {
+              "clause_number": 9,
+              "text": "An Act of Parliament may make further provision for the operation of the Supreme Court."
+            }
+          ]
+        },
+        {
+          "article_number": 164,
+          "article_title": "Court of Appeal.",
+          "clauses": [
+            {
+              "clause_number": 1,
+              "text": "There is established the Court of Appeal, which—(a) shall consist of the number of judges, being not fewer than twelve, as may be prescribed by an Act of Parliament; and(b) shall be organised and administered in the manner prescribed by an Act of Parliament."
+            },
+            {
+              "clause_number": 2,
+              "text": "There shall be a president of the Court of Appeal who shall be elected by the judges of the Court of Appeal from among themselves."
+            },
+            {
+              "clause_number": 3,
+              "text": "The Court of Appeal has jurisdiction to hear appeals from—(a) the High Court; and(b) any other court or tribunal as prescribed by an Act of Parliament."
+            }
+          ]
+        },
+        {
+          "article_number": 165,
+          "article_title": "High Court.",
+          "clauses": [
+            {
+              "clause_number": 1,
+              "text": "There is established the High Court, which—(a) shall consist of the number of judges prescribed by an Act of Parliament; and(b) shall be organised and administered in the manner prescribed by an Act of Parliament."
+            },
+            {
+              "clause_number": 2,
+              "text": "There shall be a Principal Judge of the High Court, who shall be elected by the judges of the High Court from among themselves."
+            },
+            {
+              "clause_number": 3,
+              "text": "Subject to clause (5), the High Court shall have—(a) unlimited original jurisdiction in criminal and civil matters;(b) jurisdiction to determine the question whether a right or fundamental freedom in the Bill of Rights has been denied, violated, infringed or threatened;(c) jurisdiction to hear an appeal from a decision of a tribunal appointed under this Constitution to consider the removal of a person from office, other than a tribunal appointed under Article 144;(d) jurisdiction to hear any question respecting the interpretation of this Constitution including the determination of—(i) the question whether any law is inconsistent with or in contravention of this Constitution;(ii) the question whether anything said to be done under the authority of this Constitution or of any law is inconsistent with, or in contravention of, this Constitution;(iii) any matter relating to constitutional powers of State organs in respect of county governments and any matter relating to the constitutional relationship between the levels of government; and(iv) a question relating to conflict of laws under Article 191; and(e) any other jurisdiction, original or appellate, conferred on it by legislation."
+            },
+            {
+              "clause_number": 4,
+              "text": "Any matter certified by the court as raising a substantial question of law under clause (3) (b) or (d) shall be heard by an uneven number of judges, being not less than three, assigned by the Chief Justice."
+            },
+            {
+              "clause_number": 5,
+              "text": "The High Court shall not have jurisdiction in respect of matters—(a) reserved for the exclusive jurisdiction of the Supreme Court under this Constitution; or(b) falling within the jurisdiction of the courts contemplated in Article 162 (2)."
+            },
+            {
+              "clause_number": 6,
+              "text": "The High Court has supervisory jurisdiction over the subordinate courts and over any person, body or authority exercising a judicial or quasi-judicial function, but not over a superior court."
+            },
+            {
+              "clause_number": 7,
+              "text": "For the purposes of clause (6), the High Court may call for the record of any proceedings before any subordinate court or person, body or authority referred to in clause (6), and may make any order or give any direction it considers appropriate to ensure the fair administration of justice."
+            }
+          ]
+        },
+        {
+          "article_number": 166,
+          "article_title": "Appointment of Chief Justice, Deputy Chief Justice and other judges.",
+          "clauses": [
+            {
+              "clause_number": 1,
+              "text": "The President shall appoint—(a) the Chief Justice and the Deputy Chief Justice, in accordance with the recommendation of the Judicial Service Commission, and subject to the approval of the National Assembly; and(b) all other judges, in accordance with the recommendation of the Judicial Service Commission."
+            },
+            {
+              "clause_number": 2,
+              "text": "Each judge of a superior court shall be appointed from among persons who—(a) hold a law degree from a recognised university, or are advocates of the High Court of Kenya, or possess an equivalent qualification in a common-law jurisdiction;(b) possess the experience required under clause (3) to (6) as applicable, irrespective of whether that experience was gained in Kenya or in another Commonwealth common-law jurisdiction; and(c) have a high moral character, integrity and impartiality."
+            },
+            {
+              "clause_number": 3,
+              "text": "The Chief Justice and other judges of the Supreme Court shall be appointed from among persons who have—(a) at least fifteen years experience as a superior court judge; or(b) at least fifteen years’ experience as a distinguished academic, judicial officer, legal practitioner or such experience in other relevant legal field; or(c) held the qualifications specified in paragraphs (a) and (b) for a period amounting, in the aggregate, to fifteen years."
+            },
+            {
+              "clause_number": 4,
+              "text": "Each judge of the Court of Appeal shall be appointed from among persons who have—(a) at least ten years’ experience as a superior court judge; or(b) at least ten years’ experience as a distinguished academic or legal practitioner or such experience in other relevant legal field; or(c) held the qualifications mentioned in paragraphs (a) and (b) for a period amounting, in the aggregate, to ten years."
+            },
+            {
+              "clause_number": 5,
+              "text": "Each judge of the High Court shall be appointed from among persons who have—(a) at least ten years’ experience as a superior court judge or professionally qualified magistrate; or(b) at least ten years’ experience as a distinguished academic or legal practitioner or such experience in other relevant legal field; or(c) held the qualifications specified in paragraphs (a) and (b) for a period amounting, in the aggregate, to ten years."
+            }
+          ]
+        },
+        {
+          "article_number": 167,
+          "article_title": "Tenure of office of the Chief Justice and other judges.",
+          "clauses": [
+            {
+              "clause_number": 1,
+              "text": "A judge shall retire from office on attaining the age of seventy years, but may elect to retire at any time after attaining the age of sixty-five years."
+            },
+            {
+              "clause_number": 2,
+              "text": "The Chief Justice shall hold office for a maximum of ten years or until retiring under clause (1), whichever is the earlier."
+            },
+            {
+              "clause_number": 3,
+              "text": "If the Chief Justice’s term of office expires before the Chief Justice retires under clause (1), the Chief Justice may continue in office as a judge of the Supreme Court."
+            },
+            {
+              "clause_number": 4,
+              "text": "If, on the expiry of the term of office of a Chief Justice, the Chief Justice opts to remain on the Supreme Court under clause (3), the next person appointed as Chief Justice may be selected in accordance with Article 166 (1), even though that appointment may result in there being more than the maximum permitted number of Supreme Court judges holding office."
+            },
+            {
+              "clause_number": 5,
+              "text": "The Chief Justice and any other judge may resign from office by giving notice, in writing, to the President."
+            }
+          ]
+        },
+        {
+          "article_number": 168,
+          "article_title": "Removal from office.",
+          "clauses": [
+            {
+              "clause_number": 1,
+              "text": "A judge of a superior court may be removed from office only on the grounds of—(a) inability to perform the functions of office arising from mental or physical incapacity;(b) a breach of a code of conduct prescribed for judges of the superior courts by an Act of Parliament;(c) bankruptcy;(d) incompetence; or(e) gross misconduct or misbehaviour."
+            },
+            {
+              "clause_number": 2,
+              "text": "The removal of a judge may be initiated only by the Judicial Service Commission acting on its own motion, or on the petition of any person to the Judicial Service Commission."
+            },
+            {
+              "clause_number": 3,
+              "text": "A petition by a person to the Judicial Service Commission under clause (2) shall be in writing, setting out the alleged facts constituting the grounds for the judges removal."
+            },
+            {
+              "clause_number": 4,
+              "text": "The Judicial Service Commission shall consider the petition and, if it is satisfied that the petition discloses a ground for removal under clause (1), send the petition to the President."
+            },
+            {
+              "clause_number": 5,
+              "text": "The President shall, within fourteen days after receiving the petition, suspend the judge from office and, acting in accordance with the recommendation of the Judicial Service Commission—(a) in the case of the Chief Justice, appoint a tribunal consisting of—(i) the Speaker of the National Assembly, as chairperson;(ii) three superior court judges from common-law jurisdictions;(iii) one advocate of fifteen years standing; and(iv) two other persons with experience in public affairs; or(b) in the case of a judge other than the Chief Justice, appoint a tribunal consisting of—(i) a chairperson and three other members from among persons who hold or have held office as a judge of a superior court, or who are qualified to be appointed as such but who, in either case, have been members of the Judicial Service Commission at any time within the immediately preceding three years;(ii) one advocate of fifteen years standing; and(iii) two other persons with experience in public affairs."
+            },
+            {
+              "clause_number": 6,
+              "text": "Despite Article 160 (4), the remuneration and benefits payable to a judge who is suspended from office under clause (5) shall be adjusted to one half until such time as the judge is removed from, or reinstated in, office."
+            },
+            {
+              "clause_number": 7,
+              "text": "A tribunal appointed under clause (5) shall—(a) be responsible for the regulation of its proceedings, subject to any legislation contemplated in clause (10); and(b) inquire into the matter expeditiously and report on the facts and make binding recommendations to the President."
+            },
+            {
+              "clause_number": 8,
+              "text": "A judge who is aggrieved by a decision of the tribunal under this Article may appeal against the decision to the Supreme Court, within ten days after the tribunal makes its recommendations."
+            },
+            {
+              "clause_number": 9,
+              "text": "The President shall act in accordance with the recommendations made by the tribunal on the later of—(a) the expiry of the time allowed for an appeal under clause (8), if no such appeal is taken; or(b) the completion of all rights of appeal in any proceedings allowed for under clause (8), if such an appeal is taken and the final order in the matter affirms the tribunal’s recommendations."
+            },
+            {
+              "clause_number": 10,
+              "text": "Parliament shall enact legislation providing for the procedure of a tribunal appointed under this Article."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part_number": 3,
+      "part_name": "SUBORDINATE COURTS",
+      "articles": [
+        {
+          "article_number": 169,
+          "article_title": "Subordinate courts.",
+          "clauses": [
+            {
+              "clause_number": 1,
+              "text": "The subordinate courts are—(a) the Magistrates courts;(b) the Kadhis’ courts;(c) the Courts Martial; and(d) any other court or local tribunal as may be established by an Act of Parliament, other than the courts established as required by Article 162 (2)."
+            },
+            {
+              "clause_number": 2,
+              "text": "Parliament shall enact legislation conferring jurisdiction, functions and powers on the courts established under clause (1)."
+            }
+          ]
+        },
+        {
+          "article_number": 170,
+          "article_title": "Kadhis’ Courts.",
+          "clauses": [
+            {
+              "clause_number": 1,
+              "text": "There shall be a Chief Kadhi and such number, being not fewer than three, of other Kadhis as may be prescribed under an Act of Parliament."
+            },
+            {
+              "clause_number": 2,
+              "text": "A person shall not be qualified to be appointed to hold or act in the office of Kadhi unless the person—(a) professes the Muslim religion; and(b) possesses such knowledge of the Muslim law applicable to any sects of Muslims as qualifies the person, in the opinion of the Judicial Service Commission, to hold a Kadhi’s court."
+            },
+            {
+              "clause_number": 3,
+              "text": "Parliament shall establish Kadhis’ courts, each of which shall have the jurisdiction and powers conferred on it by legislation, subject to clause (5)."
+            },
+            {
+              "clause_number": 4,
+              "text": "The Chief Kadhi and the other Kadhis, or the Chief Kadhi and such of the other Kadhis (not being fewer than three in number) as may be prescribed under an Act of Parliament, shall each be empowered to hold a Kadhi’s court having jurisdiction within Kenya."
+            },
+            {
+              "clause_number": 5,
+              "text": "The jurisdiction of a Kadhis’ court shall be limited to the determination of questions of Muslim law relating to personal status, marriage, divorce or inheritance in proceedings in which all the parties profess the Muslim religion and submit to the jurisdiction of the Kadhi’s courts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "part_number": 4,
+      "part_name": "JUDICIAL SERVICE COMMISSION",
+      "articles": [
+        {
+          "article_number": 171,
+          "article_title": "Establishment of the Judicial Service Commission.",
+          "clauses": [
+            {
+              "clause_number": 1,
+              "text": "There is established the Judicial Service Commission."
+            },
+            {
+              "clause_number": 2,
+              "text": "The Commission shall consist of—(a) the Chief Justice, who shall be the chairperson of the Commission;(b) one Supreme Court judge elected by the judges of the Supreme Court;(c) one Court of Appeal judge elected by the judges of the Court of Appeal;(d) one High Court judge and one magistrate, one a woman and one a man, elected by the members of the association of judges and magistrates;(e) the Attorney-General;(f) two advocates, one a woman and one a man, each of whom has at least fifteen years’ experience, elected by the members of the statutory body responsible for the professional regulation of advocates;(g) one person nominated by the Public Service Commission; and(h) one woman and one man to represent the public, not being lawyers, appointed by the President with the approval of the National Assembly."
+            },
+            {
+              "clause_number": 3,
+              "text": "The Chief Registrar of the Judiciary shall be the Secretary to the Commission."
+            },
+            {
+              "clause_number": 4,
+              "text": "Members of the Commission, apart from the Chief Justice and the Attorney-General, shall hold office, provided that they remain qualified, for a term of five years and shall be eligible to be nominated for one further term of five years."
+            }
+          ]
+        },
+        {
+          "article_number": 172,
+          "article_title": "Functions of the Judicial Service Commission.",
+          "clauses": [
+            {
+              "clause_number": 1,
+              "text": "The Judicial Service Commission shall promote and facilitate the independence and accountability of the judiciary and the efficient, effective and transparent administration of justice and shall—(a) recommend to the President persons for appointment as judges;(b) review and make recommendations on the conditions of service of—(i) judges and judicial officers, other than their remuneration; and(ii) the staff of the Judiciary;(c) appoint, receive complaints against, investigate and remove from office or otherwise discipline registrars, magistrates, other judicial officers and other staff of the Judiciary, in the manner prescribed by an Act of Parliament;(d) prepare and implement programmes for the continuing education and training of judges and judicial officers; and(e) advise the national government on improving the efficiency of the administration of justice."
+            },
+            {
+              "clause_number": 2,
+              "text": "In the performance of its functions, the Commission shall be guided by the following—(a) competitiveness and transparent processes of appointment of judicial officers and other staff of the judiciary; and(b) the promotion of gender equality."
+            }
+          ]
+        },
+        {
+          "article_number": 173,
+          "article_title": "Judiciary Fund.",
+          "clauses": [
+            {
+              "clause_number": 1,
+              "text": "There is established a fund to be known as the Judiciary Fund which shall be administered by the Chief Registrar of the Judiciary."
+            },
+            {
+              "clause_number": 2,
+              "text": "The Fund shall be used for administrative expenses of the Judiciary and such other purposes as may be necessary for the discharge of the functions of the Judiciary."
+            },
+            {
+              "clause_number": 3,
+              "text": "Each financial year, the Chief Registrar shall prepare estimates of expenditure for the following year, and submit them to the National Assembly for approval."
+            },
+            {
+              "clause_number": 4,
+              "text": "On approval of the estimates by the National Assembly, the expenditure of the Judiciary shall be a charge on the Consolidated Fund and the funds shall be paid directly into the Judiciary Fund."
+            },
+            {
+              "clause_number": 5,
+              "text": "Parliament shall enact legislation to provide for the regulation of the Fund."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "articles": null
+}

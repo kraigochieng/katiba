@@ -1,0 +1,74 @@
+{
+  "chapter_number": 1,
+  "chapter_name": "SOVEREIGNTY OF THE PEOPLE AND SUPREMACY OF THIS CONSTITUTION",
+  "has_parts": false,
+  "parts": null,
+  "articles": [
+    {
+      "article_number": 1,
+      "article_title": "Sovereignty of the people.",
+      "clauses": [
+        {
+          "clause_number": 1,
+          "text": "(1) All sovereign power belongs to the people of Kenya and shall be exercised only in accordance with this Constitution."
+        },
+        {
+          "clause_number": 2,
+          "text": "(2) The people may exercise their sovereign power either directly or through their democratically elected representatives."
+        },
+        {
+          "clause_number": 3,
+          "text": "(3) Sovereign power under this Constitution is delegated to the following State organs, which shall perform their functions in accordance with this Constitution— (a) Parliament and the legislative assemblies in the county governments; (b) the national executive and the executive structures in the county governments; and (c) the Judiciary and independent tribunals."
+        },
+        {
+          "clause_number": 4,
+          "text": "(4) The sovereign power of the people is exercised at— (a) the national level; and (b) the county level."
+        }
+      ]
+    },
+    {
+      "article_number": 2,
+      "article_title": "Supremacy of this Constitution.",
+      "clauses": [
+        {
+          "clause_number": 1,
+          "text": "(1) This Constitution is the supreme law of the Republic and binds all persons and all State organs at both levels of government."
+        },
+        {
+          "clause_number": 2,
+          "text": "(2) No person may claim or exercise State authority except as authorised under this Constitution."
+        },
+        {
+          "clause_number": 3,
+          "text": "(3) The validity or legality of this Constitution is not subject to challenge by or before any court or other State organ."
+        },
+        {
+          "clause_number": 4,
+          "text": "(4) Any law, including customary law, that is inconsistent with this Constitution is void to the extent of the inconsistency, and any act or omission in contravention of this Constitution is invalid."
+        },
+        {
+          "clause_number": 5,
+          "text": "(5) The general rules of international law shall form part of the law of Kenya."
+        },
+        {
+          "clause_number": 6,
+          "text": "(6) Any treaty or convention ratified by Kenya shall form part of the law of Kenya under this Constitution."
+        }
+      ]
+    },
+    {
+      "article_number": 3,
+      "article_title": "Defence of this Constitution.",
+      "clauses": [
+        {
+          "clause_number": 1,
+          "text": "(1) Every person has an obligation to respect, uphold and defend this Constitution."
+        },
+        {
+          "clause_number": 2,
+          "text": "(2) Any attempt to establish a government otherwise than in compliance with this Constitution is unlawful."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "chapter_number": 3,
+  "chapter_name": "CITIZENSHIP",
+  "has_parts": false,
+  "parts": null,
+  "articles": [
+    {
+      "article_number": 12,
+      "article_title": "Entitlements of citizens.",
+      "clauses": [
+        {
+          "clause_number": 1,
+          "text": "Every citizen is entitled to—(a) the rights, privileges and benefits of citizenship, subject to the limits provided or permitted by this Constitution; and(b) a Kenyan passport and any document of registration or identification issued by the State to citizens."
+        },
+        {
+          "clause_number": 2,
+          "text": "A passport or other document referred to in clause (1) (b) may be denied, suspended or confiscated only in accordance with an Act of Parliament that satisfies the criteria referred to in Article 24."
+        }
+      ]
+    },
+    {
+      "article_number": 13,
+      "article_title": "Retention and acquisition of citizenship.",
+      "clauses": [
+        {
+          "clause_number": 1,
+          "text": "Every person who was a citizen immediately before the effective date retains the same citizenship status as of that date."
+        },
+        {
+          "clause_number": 2,
+          "text": "Citizenship may be acquired by birth or registration."
+        },
+        {
+          "clause_number": 3,
+          "text": "Citizenship is not lost through marriage or the dissolution of marriage."
+        }
+      ]
+    },
+    {
+      "article_number": 14,
+      "article_title": "Citizenship by birth.",
+      "clauses": [
+        {
+          "clause_number": 1,
+          "text": "A person is a citizen by birth if on the day of the person’s birth, whether or not the person is born in Kenya, either the mother or father of the person is a citizen."
+        },
+        {
+          "clause_number": 2,
+          "text": "Clause (1) applies equally to a person born before the effective date, whether or not the person was born in Kenya, if either the mother or father of the person is or was a citizen."
+        },
+        {
+          "clause_number": 3,
+          "text": "Parliament may enact legislation limiting the effect of clauses (1) and (2) on the descendents of Kenyan citizens who are born outside Kenya."
+        },
+        {
+          "clause_number": 4,
+          "text": "A child found in Kenya who is, or appears to be, less than eight years of age, and whose nationality and parents are not known, is presumed to be a citizen by birth."
+        },
+        {
+          "clause_number": 5,
+          "text": "A person who is a Kenyan citizen by birth and who, on the effective date, has ceased to be a Kenyan citizen because the person acquired citizenship of another country, is entitled on application to regain Kenyan citizenship."
+        }
+      ]
+    },
+    {
+      "article_number": 15,
+      "article_title": "Citizenship by registration.",
+      "clauses": [
+        {
+          "clause_number": 1,
+          "text": "A person who has been married to a citizen for a period of at least seven years is entitled on application to be registered as a citizen."
+        },
+        {
+          "clause_number": 2,
+          "text": "A person who has been lawfully resident in Kenya for a continuous period of at least seven years, and who satisfies the conditions prescribed by an Act of Parliament, may apply to be registered as a citizen."
+        },
+        {
+          "clause_number": 3,
+          "text": "A child who is not a citizen, but is adopted by a citizen, is entitled on application to be registered as a citizen."
+        },
+        {
+          "clause_number": 4,
+          "text": "Parliament shall enact legislation establishing conditions on which citizenship may be granted to individuals who are citizens of other countries."
+        },
+        {
+          "clause_number": 5,
+          "text": "This Article applies to a person as from the effective date, but any requirements that must be satisfied before the person is entitled to be registered as a citizen shall be regarded as having been satisfied irrespective of whether the person satisfied them before or after the effective date, or partially before, and partially after, the effective date."
+        }
+      ]
+    },
+    {
+      "article_number": 16,
+      "article_title": "Dual citizenship.",
+      "clauses": [
+        {
+          "clause_number": 0,
+          "text": "A citizen by birth does not lose citizenship by acquiring the citizenship of another country."
+        }
+      ]
+    },
+    {
+      "article_number": 17,
+      "article_title": "Revocation of citizenship.",
+      "clauses": [
+        {
+          "clause_number": 1,
+          "text": "If a person acquired citizenship by registration, the citizenship may be revoked if the person—(a) acquired the citizenship by fraud, false representation or concealment of any material fact;(b) has, during any war in which Kenya was engaged, unlawfully traded or communicated with an enemy or been engaged in or associated with any business that was knowingly carried on in such a manner as to assist an enemy in that war;(c) has, within five years after registration, been convicted of an offence and sentenced to imprisonment for a term of three years or longer; or(d) has, at any time after registration, been convicted of treason, or of an offence for which—(i) a penalty of at least seven years imprisonment may be imposed; or(ii) a more severe penalty may be imposed."
+        },
+        {
+          "clause_number": 2,
+          "text": "The citizenship of a person who was presumed to be a citizen by birth, as contemplated in Article 14 (4), may be revoked if—(a) the citizenship was acquired by fraud, false representation or concealment of any material fact by any person;(b) the nationality or parentage of the person becomes known, and reveals that the person was a citizen of another country; or(c) the age of the person becomes known, and reveals that the person was older than eight years when found in Kenya."
+        }
+      ]
+    },
+    {
+      "article_number": 18,
+      "article_title": "Legislation on citizenship.",
+      "clauses": [
+        {
+          "clause_number": 0,
+          "text": "Parliament shall enact legislation—(a) prescribing procedures by which a person may become a citizen;(b) governing entry into and residence in Kenya;(c) providing for the status of permanent residents;(d) providing for voluntary renunciation of citizenship;(e) prescribing procedures for revocation of citizenship;(f) prescribing the duties and rights of citizens; and(g) generally giving effect to the provisions of this Chapter."
+        }
+      ]
+    }
+  ]
+}

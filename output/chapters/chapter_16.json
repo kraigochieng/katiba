@@ -1,0 +1,94 @@
+{
+  "chapter_number": 16,
+  "chapter_name": "AMENDMENT OF THIS CONSTITUTION",
+  "has_parts": false,
+  "parts": null,
+  "articles": [
+    {
+      "article_number": 255,
+      "article_title": "Amendment of this Constitution.",
+      "clauses": [
+        {
+          "clause_number": 1,
+          "text": "A proposed amendment to this Constitution shall be enacted in accordance with Article 256 or 257, and approved in accordance with clause (2) by a referendum, if the amendment relates to any of the following matters—(a) the supremacy of this Constitution;(b) the territory of Kenya;(c) the sovereignty of the people;(d) the national values and principles of governance referred to in Article 10 (2) (a) to (d);(e) the Bill of Rights;(f) the term of office of the President;(g) the independence of the Judiciary and the commissions and independent offices to which Chapter Fifteen applies;(h) the functions of Parliament;(i) the objects, principles and structure of devolved government; or(j) the provisions of this Chapter."
+        },
+        {
+          "clause_number": 2,
+          "text": "A proposed amendment shall be approved by a referendum under clause (1) if—(a) at least twenty per cent of the registered voters in each of at least half of the counties vote in the referendum; and(b) the amendment is supported by a simple majority of the citizens voting in the referendum."
+        },
+        {
+          "clause_number": 3,
+          "text": "An amendment to this Constitution that does not relate to a matter specified in clause (1) shall be enacted either—(a) by Parliament, in accordance with Article 256; or(b) by the people and Parliament, in accordance with Article 257."
+        }
+      ]
+    },
+    {
+      "article_number": 256,
+      "article_title": "Amendment by parliamentary initiative.",
+      "clauses": [
+        {
+          "clause_number": 1,
+          "text": "A Bill to amend this Constitution—(a) may be introduced in either House of Parliament;(b) may not address any other matter apart from consequential amendments to legislation arising from the Bill;(c) shall not be called for second reading in either House within ninety days after the first reading of the Bill in that House; and(d) shall have been passed by Parliament when each House of Parliament has passed the Bill, in both its second and third readings, by not less than two-thirds of all the members of that House."
+        },
+        {
+          "clause_number": 2,
+          "text": "Parliament shall publicise any Bill to amend this Constitution, and facilitate public discussion about the Bill."
+        },
+        {
+          "clause_number": 3,
+          "text": "After Parliament passes a Bill to amend this Constitution, the Speakers of the two Houses of Parliament shall jointly submit to the President—(a) the Bill, for assent and publication; and(b) a certificate that the Bill has been passed by Parliament in accordance with this Article."
+        }
+      ]
+    },
+    {
+      "article_number": 257,
+      "article_title": "Amendment by popular initiative.",
+      "clauses": [
+        {
+          "clause_number": 1,
+          "text": "An amendment to this Constitution may be proposed by a popular initiative signed by at least one million registered voters."
+        },
+        {
+          "clause_number": 2,
+          "text": "A popular initiative for an amendment to this Constitution may be in the form of a general suggestion or a formulated draft Bill."
+        },
+        {
+          "clause_number": 3,
+          "text": "If a popular initiative is in the form of a general suggestion, the promoters of that popular initiative shall formulate it into a draft Bill."
+        },
+        {
+          "clause_number": 4,
+          "text": "The promoters of a popular initiative shall deliver the draft Bill and the supporting signatures to the Independent Electoral and Boundaries Commission, which shall verify that the initiative is supported by at least one million registered voters."
+        },
+        {
+          "clause_number": 5,
+          "text": "If the Independent Electoral and Boundaries Commission is satisfied that the initiative meets the requirements of this Article, the Commission shall submit the draft Bill to each county assembly for consideration within three months after the date it was submitted by the Commission."
+        },
+        {
+          "clause_number": 6,
+          "text": "If a county assembly approves the draft Bill within three months after the date it was submitted by the Commission, the speaker of the county assembly shall deliver a copy of the draft Bill jointly to the Speakers of the two Houses of Parliament, with a certificate that the county assembly has approved it."
+        },
+        {
+          "clause_number": 7,
+          "text": "If a draft Bill has been approved by a majority of the county assemblies, it shall be introduced in Parliament without delay."
+        },
+        {
+          "clause_number": 8,
+          "text": "A Bill under this Article is passed by Parliament if supported by a majority of the members of each House."
+        },
+        {
+          "clause_number": 9,
+          "text": "If Parliament passes the Bill, it shall be submitted to the President for assent in accordance with Articles 256 (4) and (5)."
+        },
+        {
+          "clause_number": 10,
+          "text": "If either House of Parliament fails to pass the Bill, or the Bill relates to a matter specified in 255 (1), the proposed amendment shall be submitted to the people in a referendum."
+        },
+        {
+          "clause_number": 11,
+          "text": "Article 255 (2) applies, with any necessary modifications, to a referendum under clause (10)."
+        }
+      ]
+    }
+  ]
+}

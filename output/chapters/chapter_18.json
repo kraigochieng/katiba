@@ -1,0 +1,80 @@
+{
+  "chapter_number": 18,
+  "chapter_name": "TRANSITIONAL AND CONSEQUENTIAL PROVISIONS",
+  "has_parts": false,
+  "parts": null,
+  "articles": [
+    {
+      "article_number": 261,
+      "article_title": "Consequential legislation.",
+      "clauses": [
+        {
+          "clause_number": 1,
+          "text": "Parliament shall enact any legislation required by this Constitution to be enacted to govern a particular matter within the period specified in the Fifth Schedule, commencing on the effective date."
+        },
+        {
+          "clause_number": 2,
+          "text": "Despite clause (1), the National Assembly may, by resolution supported by the votes of at least two-thirds of all the members of the National Assembly, extend the period prescribed in respect of any particular matter under clause (1), by a period not exceeding one year."
+        },
+        {
+          "clause_number": 3,
+          "text": "The power of the National Assembly contemplated under clause (2), may be exercised—(a) only once in respect of any particular matter; and(b) only in exceptional circumstances to be certified by the Speaker of the National Assembly."
+        },
+        {
+          "clause_number": 4,
+          "text": "For the purposes of clause (1), the Attorney-General, in consultation with the Commission for the Implementation of the Constitution, shall prepare the relevant Bills for tabling before Parliament, as soon as reasonably practicable, to enable Parliament to enact the legislation within the period specified."
+        },
+        {
+          "clause_number": 5,
+          "text": "If Parliament fails to enact any particular legislation within the specified time, any person may petition the High Court on the matter."
+        },
+        {
+          "clause_number": 6,
+          "text": "The High Court in determining a petition under clause (5) may—(a) make a declaratory order on the matter; and(b) transmit an order directing Parliament and the Attorney-General to take steps to ensure that the required legislation is enacted, within the period specified in the order, and to report the progress to the Chief Justice."
+        },
+        {
+          "clause_number": 7,
+          "text": "If Parliament fails to enact legislation in accordance with an order under clause (6) (b), the Chief Justice shall advise the President to dissolve Parliament and the President shall dissolve Parliament."
+        },
+        {
+          "clause_number": 8,
+          "text": "If Parliament has been dissolved under clause (7), the new Parliament shall enact the required legislation within the periods specified in the Fifth Schedule beginning with the date of commencement of the term of the new Parliament."
+        },
+        {
+          "clause_number": 9,
+          "text": "If the new Parliament fails to enact legislation in accordance with clause (8), the provisions of clauses (1) to (8) shall apply afresh."
+        }
+      ]
+    },
+    {
+      "article_number": 262,
+      "article_title": "Transitional and consequential provisions.",
+      "clauses": [
+        {
+          "clause_number": 1,
+          "text": "The transitional and consequential provisions set out in the Sixth Schedule shall take effect on the effective date."
+        }
+      ]
+    },
+    {
+      "article_number": 263,
+      "article_title": "Effective Date.",
+      "clauses": [
+        {
+          "clause_number": 1,
+          "text": "This Constitution shall come into force on its promulgation by the President or on the expiry of a period of fourteen days from the date of the publication in the Gazette of the final result of the referendum ratifying this Constitution, whichever is the earlier."
+        }
+      ]
+    },
+    {
+      "article_number": 264,
+      "article_title": "Repeal of previous constitution.",
+      "clauses": [
+        {
+          "clause_number": 1,
+          "text": "Subject to the Sixth Schedule, for the avoidance of doubt, the Constitution in force immediately before the effective date shall stand repealed on the effective date,"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_name": "SOVEREIGNTY OF THE PEOPLE AND SUPREMACY OF THIS CONSTITUTION",
+      "has_parts": false,
+      "part_names": null
+    },
+    {
+      "chapter_number": 2,
+      "chapter_name": "THE REPUBLIC",
+      "has_parts": false,
+      "part_names": null
+    },
+    {
+      "chapter_number": 3,
+      "chapter_name": "CITIZENSHIP",
+      "has_parts": false,
+      "part_names": null
+    },
+    {
+      "chapter_number": 4,
+      "chapter_name": "THE BILL OF RIGHTS",
+      "has_parts": true,
+      "part_names": [
+        "PART 1—GENERAL PROVISIONS RELATING TO THE BILL OF RIGHTS",
+        "PART 2—RIGHTS AND FUNDAMENTAL FREEDOMS",
+        "PART 3—SPECIFIC APPLICATION OF RIGHTS",
+        "PART 4—STATE OF EMERGENCY",
+        "PART 5—KENYA NATIONAL HUMAN RIGHTS AND EQUALITY COMMISSION"
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "chapter_name": "LAND AND ENVIRONMENT",
+      "has_parts": true,
+      "part_names": [
+        "PART 1—LAND",
+        "PART 2— ENVIRONMENT AND NATURAL RESOURCES"
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "chapter_name": "LEADERSHIP AND INTEGRITY",
+      "has_parts": false,
+      "part_names": null
+    },
+    {
+      "chapter_number": 7,
+      "chapter_name": "REPRESENTATION OF THE PEOPLE",
+      "has_parts": true,
+      "part_names": [
+        "PART 1—ELECTORAL SYSTEM AND PROCESS",
+        "PART 2—INDEPENDENT ELECTORAL AND BOUNDARIES COMMISSION AND DELIMITATION OF ELECTORAL UNITS",
+        "PART 3—POLITICAL PARTIES"
+      ]
+    },
+    {
+      "chapter_number": 8,
+      "chapter_name": "THE LEGISLATURE",
+      "has_parts": true,
+      "part_names": [
+        "PART 1—ESTABLISHMENT AND ROLE OF PARLIAMENT",
+        "PART 2—COMPOSITION AND MEMBERSHIP OF PARLIAMENT",
+        "PART 3—OFFICES OF PARLIAMENT",
+        "PART 4—PROCEDURES FOR ENACTING LEGISLATION",
+        "PART 5—PARLIAMENT’S GENERAL PROCEDURES AND RULES",
+        "PART 6—MISCELLANEOUS"
+      ]
+    },
+    {
+      "chapter_number": 9,
+      "chapter_name": "THE EXECUTIVE",
+      "has_parts": true,
+      "part_names": [
+        "PART 1—PRINCIPLES AND STRUCTURE OF THE NATIONAL EXECUTIVE",
+        "PART 2—THE PRESIDENT AND DEPUTY PRESIDENT",
+        "PART 3—THE CABINET",
+        "PART 4—OTHER OFFICES",
+        "PART 6—MISCELLANEOUS"
+      ]
+    },
+    {
+      "chapter_number": 10,
+      "chapter_name": "JUDICIARY",
+      "has_parts": true,
+      "part_names": [
+        "PART 1—JUDICIAL AUTHORITY AND LEGAL SYSTEM",
+        "PART 2—SUPERIOR COURTS",
+        "PART 3—SUBORDINATE COURTS",
+        "PART 4—JUDICIAL SERVICE COMMISSION"
+      ]
+    },
+    {
+      "chapter_number": 11,
+      "chapter_name": "DEVOLVED GOVERNMENT",
+      "has_parts": true,
+      "part_names": [
+        "PART 1—OBJECTS AND PRINCIPLES OF DEVOLVED GOVERNMENT",
+        "PART 2—COUNTY GOVERNMENTS",
+        "PART 3—FUNCTIONS AND POWERS OF COUNTY GOVERNMENTS",
+        "PART 4—THE BOUNDARIES OF COUNTIES",
+        "PART 5—RELATIONSHIPS BETWEEN GOVERNMENTS",
+        "PART 6—SUSPENSION OF COUNTY GOVERNMENTS",
+        "PART 7—GENERAL"
+      ]
+    },
+    {
+      "chapter_number": 12,
+      "chapter_name": "PUBLIC FINANCE",
+      "has_parts": true,
+      "part_names": [
+        "PART I—PRINCIPLES AND FRAMEWORK OF PUBLIC FINANCE",
+        "PART 2—OTHER PUBLIC FUNDS",
+        "PART 3—REVENUE-RAISING POWERS AND THE PUBLIC DEBT",
+        "PART 4—REVENUE ALLOCATION",
+        "PART 5—BUDGETS AND SPENDING",
+        "PART 6—CONTROL OF PUBLIC MONEY",
+        "PART 7— FINANCIAL OFFICERS AND INSTITUTIONS"
+      ]
+    },
+    {
+      "chapter_number": 13,
+      "chapter_name": "THE PUBLIC SERVICE",
+      "has_parts": true,
+      "part_names": [
+        "PART 1—VALUES AND PRINCIPLES OF PUBLIC SERVICE",
+        "PART 2—THE PUBLIC SERVICE COMMISSION",
+        "PART 3—TEACHERS SERVICE COMMISSION"
+      ]
+    },
+    {
+      "chapter_number": 14,
+      "chapter_name": "NATIONAL SECURITY",
+      "has_parts": true,
+      "part_names": [
+        "PART 1—NATIONAL SECURITY ORGANS",
+        "PART 2—THE KENYA DEFENCE FORCES",
+        "PART 3—THE NATIONAL INTELLIGENCE SERVICE",
+        "PART 4—THE NATIONAL POLICE SERVICE"
+      ]
+    },
+    {
+      "chapter_number": 15,
+      "chapter_name": "COMMISSIONS AND INDEPENDENT OFFICES",
+      "has_parts": false,
+      "part_names": null
+    },
+    {
+      "chapter_number": 16,
+      "chapter_name": "AMENDMENT OF THIS CONSTITUTION",
+      "has_parts": false,
+      "part_names": null
+    },
+    {
+      "chapter_number": 17,
+      "chapter_name": "GENERAL PROVISIONS",
+      "has_parts": false,
+      "part_names": null
+    },
+    {
+      "chapter_number": 18,
+      "chapter_name": "TRANSITIONAL AND CONSEQUENTIAL PROVISIONS",
+      "has_parts": true,
+      "part_names": [
+        "PART 1—GENERAL",
+        "PART 2—EXISTING OBLIGATIONS, LAWS AND RIGHTS",
+        "PART 3—NATIONAL GOVERNMENT",
+        "PART 4—DEVOLVED GOVERNMENT",
+        "PART 5—ADMINISTRATION OF JUSTICE",
+        "PART 6—MISCELLANEOUS MATTERS"
+      ]
+    }
+  ]
+}

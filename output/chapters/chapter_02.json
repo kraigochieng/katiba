@@ -1,0 +1,136 @@
+{
+  "chapter_number": 2,
+  "chapter_name": "THE REPUBLIC",
+  "has_parts": false,
+  "parts": null,
+  "articles": [
+    {
+      "article_number": 4,
+      "article_title": "Declaration of the Republic.",
+      "clauses": [
+        {
+          "clause_number": 1,
+          "text": "Kenya is a sovereign Republic."
+        },
+        {
+          "clause_number": 2,
+          "text": "The Republic of Kenya shall be a multi-party democratic State founded on the national values and principles of governance referred to in Article 10."
+        }
+      ]
+    },
+    {
+      "article_number": 5,
+      "article_title": "Territory of Kenya.",
+      "clauses": [
+        {
+          "clause_number": 1,
+          "text": "Kenya consists of the territory and territorial waters comprising Kenya on the effective date, and any additional territory and territorial waters as defined by an Act of Parliament."
+        }
+      ]
+    },
+    {
+      "article_number": 6,
+      "article_title": "Devolution and access to services.",
+      "clauses": [
+        {
+          "clause_number": 1,
+          "text": "The territory of Kenya is divided into the counties specified in the First Schedule."
+        },
+        {
+          "clause_number": 2,
+          "text": "The governments at the national and county levels are distinct and inter-dependent and shall conduct their mutual relations on the basis of consultation and cooperation."
+        },
+        {
+          "clause_number": 3,
+          "text": "A national State organ shall ensure reasonable access to its services in all parts of the Republic, so far as it is appropriate to do so having regard to the nature of the service."
+        }
+      ]
+    },
+    {
+      "article_number": 7,
+      "article_title": "National, official and other languages.",
+      "clauses": [
+        {
+          "clause_number": 1,
+          "text": "The national language of the Republic is Kiswahili."
+        },
+        {
+          "clause_number": 2,
+          "text": "The official languages of the Republic are Kiswahili and English."
+        },
+        {
+          "clause_number": 3,
+          "text": "The State shall—(a) promote and protect the diversity of language of the people of Kenya; and(b) promote the development and use of indigenous languages, Kenyan Sign language, Braille and other communication formats and technologies accessible to persons with disabilities."
+        }
+      ]
+    },
+    {
+      "article_number": 8,
+      "article_title": "State and Religion.",
+      "clauses": [
+        {
+          "clause_number": 1,
+          "text": "There shall be no State religion."
+        }
+      ]
+    },
+    {
+      "article_number": 9,
+      "article_title": "National symbols and national days.",
+      "clauses": [
+        {
+          "clause_number": 1,
+          "text": "The national symbols of the Republic are—(a) the national flag;(b) the national anthem;(c) the coat of arms; and(d) the public seal."
+        },
+        {
+          "clause_number": 2,
+          "text": "The national symbols are as set out in the Second Schedule."
+        },
+        {
+          "clause_number": 3,
+          "text": "The national days are—(a) Madaraka Day, to be observed on 1st June;(b) Mashujaa Day, to be observed on 20th October; and(c) Jamhuri Day, to be observed on 12th December."
+        },
+        {
+          "clause_number": 4,
+          "text": "A national day shall be a public holiday."
+        },
+        {
+          "clause_number": 5,
+          "text": "Parliament may enact legislation prescribing other public holidays, and providing for observance of public holidays."
+        }
+      ]
+    },
+    {
+      "article_number": 10,
+      "article_title": "National values and principles of governance.",
+      "clauses": [
+        {
+          "clause_number": 1,
+          "text": "The national values and principles of governance in this Article bind all State organs, State officers, public officers and all persons whenever any of them—(a) applies or interprets this Constitution;(b) enacts, applies or interprets any law; or(c) makes or implements public policy decisions."
+        },
+        {
+          "clause_number": 2,
+          "text": "The national values and principles of governance include—(a) patriotism, national unity, sharing and devolution of power, the rule of law, democracy and participation of the people;(b) human dignity, equity, social justice, inclusiveness, equality, human rights, non-discrimination and protection of the marginalised;(c) good governance, integrity, transparency and accountability; and(d) sustainable development."
+        }
+      ]
+    },
+    {
+      "article_number": 11,
+      "article_title": "Culture.",
+      "clauses": [
+        {
+          "clause_number": 1,
+          "text": "This Constitution recognises culture as the foundation of the nation and as the cumulative civilization of the Kenyan people and nation."
+        },
+        {
+          "clause_number": 2,
+          "text": "The State shall—(a) promote all forms of national and cultural expression through literature, the arts, traditional celebrations, science, communication, information, mass media, publications, libraries and other cultural heritage;(b) recognise the role of science and indigenous technologies in the development of the nation; and(c) promote the intellectual property rights of the people of Kenya."
+        },
+        {
+          "clause_number": 3,
+          "text": "Parliament shall enact legislation to—(a) ensure that communities receive compensation or royalties for the use of their cultures and cultural heritage; and(b) recognise and protect the ownership of indigenous seeds and plant varieties, their genetic and diverse characteristics and their use by the communities of Kenya."
+        }
+      ]
+    }
+  ]
+}
